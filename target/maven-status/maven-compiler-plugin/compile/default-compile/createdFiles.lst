@@ -1,0 +1,6 @@
+com\cg\catalog\app\repository\MongoRepoGifts.class
+com\cg\catalog\app\CatalogApplication.class
+com\cg\catalog\app\repository\MongoRepo.class
+com\cg\catalog\app\bean\GiftCardCatalog.class
+com\cg\catalog\app\controller\CatalogController.class
+com\cg\catalog\app\bean\ProductCatalog.class
